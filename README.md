@@ -1,6 +1,18 @@
+[while-true README](https://github.com/SSAFY-while-true/.github/blob/main/profile/README.md)
+
 # 알고리즘 문제풀이
 
 ## 풀 문제 목록
+
+---
+
+- **[BOJ:15486]** 퇴사 2
+- **[BOJ:1309]** 동물원
+- **[BOJ:1325]** 효율적인 해킹킹
+
+---
+
+## 푼 문제 목록
 
 ---
 
@@ -11,5 +23,3 @@
 - **[BOJ:14218]** 그래프 탐색 2 **[풀이 완료]**
 
 ---
-
-## 푼 문제 목록
