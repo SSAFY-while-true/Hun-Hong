@@ -1,3 +1,5 @@
+# 연산자 끼워넣기
+# 덱을 이용하여 구현
 from collections import deque
 from copy import deepcopy
 N = int(input())
@@ -9,6 +11,7 @@ operator = list(map(int, input().split()))
 min_value = float("Inf")
 max_value = float("-Inf")
 
+# 백트랙킹을 수행하는 재귀 함수
 def tracking(int_list: deque, operator, acc=0):
     global min_value, max_value
     if sum(operator) > 0:
