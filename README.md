@@ -1,6 +1,8 @@
-[while-true README](https://github.com/SSAFY-while-true/.github/blob/main/profile/README.md)
-
 # 알고리즘 문제풀이
+
+## organization
+
+[while-true README](https://github.com/SSAFY-while-true)
 
 ## 풀 문제 목록
 
