@@ -8,11 +8,10 @@
 
 ---
 
-- **[BOJ:1149]** [RGB거리](https://www.acmicpc.net/problem/1149) **[풀이 완료]**
-- **[BOJ:2467]** [용액](https://www.acmicpc.net/problem/2467) **[풀이 완료]**
-- **[BOJ:5430]** [AC](https://www.acmicpc.net/problem/5430) **[풀이 완료]**
-- **[PRO:389479]** [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) **[풀이 완료]**
-- **[PRO:389481]** [봉인된 주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481) **[풀이 완료]**
+- **[BOJ:10026]** [적록색약](https://www.acmicpc.net/problem/10026)
+- **[BOJ:1074]** [Z](https://www.acmicpc.net/problem/1074)
+- **[BOJ:14503]** [로봇 청소기](https://www.acmicpc.net/problem/14503)
+- **[PRO:150368]** [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) **[풀이 완료]**
 
 ---
 
@@ -34,5 +33,10 @@
 - **[BOJ:12865]** 평범한 배낭 **[풀이 완료]**
 - **[BOJ:1931]** 회의실 배정 **[풀이 완료]**
 - **[BOJ:2206]** 벽 부수고 이동하기 **[풀이 완료]**
-  
+  - **[BOJ:1149]** [RGB거리](https://www.acmicpc.net/problem/1149) **[풀이 완료]**
+- **[BOJ:2467]** [용액](https://www.acmicpc.net/problem/2467) **[풀이 완료]**
+- **[BOJ:5430]** [AC](https://www.acmicpc.net/problem/5430) **[풀이 완료]**
+- **[PRO:389479]** [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) **[풀이 완료]**
+- **[PRO:389481]** [봉인된 주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481) **[풀이 완료]**
+
 ---
