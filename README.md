@@ -8,10 +8,10 @@
 
 ---
 
-- **[BOJ:10026]** [적록색약](https://www.acmicpc.net/problem/10026) **[풀이 완료]**
-- **[BOJ:1074]** [Z](https://www.acmicpc.net/problem/1074) **[풀이 완료]**
-- **[BOJ:14503]** [로봇 청소기](https://www.acmicpc.net/problem/14503) **[풀이 완료]**
-- **[PRO:150368]** [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) **[풀이 완료]**
+- **[BOJ:16928]** [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) **[풀이 완료]**
+- **[BOJ:20040]** [사이클 게임](https://www.acmicpc.net/problem/20040)
+- **[PRO:43238]** [입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
+- **[PRO:92343]** [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)
 
 ---
 
@@ -38,5 +38,9 @@
 - **[BOJ:5430]** [AC](https://www.acmicpc.net/problem/5430) **[풀이 완료]**
 - **[PRO:389479]** [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) **[풀이 완료]**
 - **[PRO:389481]** [봉인된 주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481) **[풀이 완료]**
+- **[BOJ:10026]** [적록색약](https://www.acmicpc.net/problem/10026) **[풀이 완료]**
+- **[BOJ:1074]** [Z](https://www.acmicpc.net/problem/1074) **[풀이 완료]**
+- **[BOJ:14503]** [로봇 청소기](https://www.acmicpc.net/problem/14503) **[풀이 완료]**
+- **[PRO:150368]** [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) **[풀이 완료]**
 
 ---
