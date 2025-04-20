@@ -10,10 +10,14 @@
 
 |출처|난이도|문제번호|문제명|풀이|
 |:---|:---|:---|:---|:---|
-|BOJ|Gold IV|7662|[이중 우선순위 큐](https://www.acmicpc.net/problem/7662)|**완료**|
-|BOJ|Gold III|2812|[크게 만들기](https://www.acmicpc.net/problem/2812)|**완료**|
-|BOJ|Gold III|2533|[사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)|**완료**|
-|Programmers|Lv.2|250136|[석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)|**완료**|
+|BOJ|Silver I|1629|[곱셈](https://www.acmicpc.net/problem/1629)|**완료**|
+|BOJ|Gold IV|1043|[거짓말](https://www.acmicpc.net/problem/1043)||
+|BOJ|Gold III|1865|[웜홀](https://www.acmicpc.net/problem/1865)||
+|Programmers|Lv.2|250135|[아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135)||
+|BOJ|Silver III|17175|[피보나치는 지겨웡~](https://www.acmicpc.net/problem/17175)||
+|BOJ|Silver III|17212|[달나라 토끼를 위한 구매대금 지불 도우미](https://www.acmicpc.net/problem/17212)||
+|BOJ|Silver II|18353|[병사 배치하기](https://www.acmicpc.net/problem/18353)||
+|BOJ|Silver III|2407|[조합](https://www.acmicpc.net/problem/2407)||
 
 ---
 
@@ -58,5 +62,9 @@
 |BOJ|Gold V|15686|[치킨배달](https://www.acmicpc.net/problem/15686)|
 |BOJ|Gold IV|1647|[도시 분할 계획](https://www.acmicpc.net/problem/1647)|
 |BOJ|Gold IV|9019|[DSLR](https://www.acmicpc.net/problem/9019)|
+|BOJ|Gold IV|7662|[이중 우선순위 큐](https://www.acmicpc.net/problem/7662)|
+|BOJ|Gold III|2812|[크게 만들기](https://www.acmicpc.net/problem/2812)|
+|BOJ|Gold III|2533|[사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)|
+|Programmers|Lv.2|250136|[석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)|
 
 ---
