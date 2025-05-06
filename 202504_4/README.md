@@ -8,7 +8,7 @@
 |BOJ|Gold IV|1043|[거짓말](https://www.acmicpc.net/problem/1043)||
 |BOJ|Gold III|1865|[웜홀](https://www.acmicpc.net/problem/1865)||
 |Programmers|Lv.2|250135|[아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135)||
-|BOJ|Silver I|1932|[정수 삼각형](https://www.acmicpc.net/problem/1932)||
+|BOJ|Silver I|1932|[정수 삼각형](https://www.acmicpc.net/problem/1932)|**완료**|
 |BOJ|Gold V|11729|[하노이 탑 이동순서](https://www.acmicpc.net/problem/11729)|**완료**|
 |BOJ|Gold IV|14500|[테트로미노](https://www.acmicpc.net/problem/14500)||
 |Programmers|Lv 2|388353|[지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353)|**완료**|
