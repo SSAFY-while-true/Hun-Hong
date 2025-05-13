@@ -8,7 +8,7 @@
 |BOJ|Gold IV|1062|[가르침](https://www.acmicpc.net/problem/1062)|**완료**|
 |BOJ|Gold IV|1932|[문자열 폭발](https://www.acmicpc.net/problem/9935)|**완료**|
 |Programmers|Lv 2|340212|[퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)|**완료**|
-|BOJ|Silver II|1780|[종이의 개수](https://www.acmicpc.net/problem/1780)||
+|BOJ|Silver II|1780|[종이의 개수](https://www.acmicpc.net/problem/1780)|**완료**|
 |BOJ|Silver I|1629|[곱셈](https://www.acmicpc.net/problem/1629)|**완료**|
 |BOJ|Gold IV|1043|[거짓말](https://www.acmicpc.net/problem/1043)||
 |BOJ|Gold III|1865|[웜홀](https://www.acmicpc.net/problem/1865)||
