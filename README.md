@@ -10,10 +10,10 @@
 
 |출처|난이도|문제번호|문제명|풀이|
 |:---|:---|:---|:---|:---|
-|BOJ|Gold V|2166|[다각형의 면적](https://www.acmicpc.net/problem/2166)|**풀이**|
-|BOJ|Gold V|1759|[암호 만들기](http://acmicpc.net/problem/1759)|**풀이**|
-|BOJ|Silver I|10844|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|**풀이**|
-|BOJ|Gold V|13549|[숨바꼭질 3](https://www.acmicpc.net/problem/13549)|**풀이**|
+|BOJ|Gold IV|1197|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|**풀이**|
+|BOJ|Gold V|9251|[LCS](https://www.acmicpc.net/problem/9251)|**풀이**|
+|BOJ|Gold V|11758|[CCW](https://www.acmicpc.net/problem/11758)||
+|BOJ|Gold III|14890|[경사로](https://www.acmicpc.net/problem/14890)||
 |BOJ|Gold IV|1043|[거짓말](https://www.acmicpc.net/problem/1043)||
 |BOJ|Gold III|1865|[웜홀](https://www.acmicpc.net/problem/1865)||
 |Programmers|Lv.2|250135|[아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135)||
@@ -83,5 +83,9 @@
 |BOJ|Silver II|11725|[트리의 부모](https://www.acmicpc.net/problem/11725)|
 |Programmers|Lv.3|12927|[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927?language=python3)|
 |BOJ|Silver II|1058|[친구](https://www.acmicpc.net/problem/1058)|
+|BOJ|Gold V|2166|[다각형의 면적](https://www.acmicpc.net/problem/2166)|
+|BOJ|Gold V|1759|[암호 만들기](http://acmicpc.net/problem/1759)|
+|BOJ|Silver I|10844|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|
+|BOJ|Gold V|13549|[숨바꼭질 3](https://www.acmicpc.net/problem/13549)|
 
 ---
