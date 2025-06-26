@@ -6,7 +6,7 @@
 |:---|:---|:---|:---|:---|
 |BOJ|Gold IV|1197|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|**풀이**|
 |BOJ|Gold V|9251|[LCS](https://www.acmicpc.net/problem/9251)|**풀이**|
-|BOJ|Gold V|11758|[CCW](https://www.acmicpc.net/problem/11758)||
-|BOJ|Gold III|14890|[경사로](https://www.acmicpc.net/problem/14890)||
+|BOJ|Gold V|11758|[CCW](https://www.acmicpc.net/problem/11758)|**풀이**|
+|BOJ|Gold III|14890|[경사로](https://www.acmicpc.net/problem/14890)|**풀이**|
 
 ---

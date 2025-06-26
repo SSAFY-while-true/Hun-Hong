@@ -12,8 +12,8 @@
 |:---|:---|:---|:---|:---|
 |BOJ|Gold IV|1197|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|**풀이**|
 |BOJ|Gold V|9251|[LCS](https://www.acmicpc.net/problem/9251)|**풀이**|
-|BOJ|Gold V|11758|[CCW](https://www.acmicpc.net/problem/11758)||
-|BOJ|Gold III|14890|[경사로](https://www.acmicpc.net/problem/14890)||
+|BOJ|Gold V|11758|[CCW](https://www.acmicpc.net/problem/11758)|**풀이**|
+|BOJ|Gold III|14890|[경사로](https://www.acmicpc.net/problem/14890)|**풀이**|
 |BOJ|Gold IV|1043|[거짓말](https://www.acmicpc.net/problem/1043)||
 |BOJ|Gold III|1865|[웜홀](https://www.acmicpc.net/problem/1865)||
 |Programmers|Lv.2|250135|[아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135)||
