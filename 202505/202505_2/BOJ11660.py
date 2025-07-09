@@ -14,5 +14,3 @@ if __name__ == "__main__": # 리본
         x1, y1, x2, y2 = map(int, input().split())
 
         result = acc_sum[x2][y2] - acc_sum[x1-1][y2] - acc_sum[x2][y1-1] + acc_sum[x1-1][y1-1]
-        print(result)
-        
