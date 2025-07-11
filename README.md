@@ -10,10 +10,10 @@
 
 |출처|난이도|문제번호|문제명|풀이|
 |:---|:---|:---|:---|:---|
-|BOJ|Gold IV|1197|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|**풀이**|
-|BOJ|Gold V|9251|[LCS](https://www.acmicpc.net/problem/9251)|**풀이**|
-|BOJ|Gold V|11758|[CCW](https://www.acmicpc.net/problem/11758)|**풀이**|
-|BOJ|Gold III|14890|[경사로](https://www.acmicpc.net/problem/14890)|**풀이**|
+|BOJ|Gold V|1174|[줄어드는 수](https://www.acmicpc.net/problem/1174)|**풀이**|
+|BOJ|Gold V|1660|[캡틴 이다솜](https://www.acmicpc.net/problem/1660)|**풀이**|
+|BOJ|Gold V|2493|[탑](https://www.acmicpc.net/problem/2493)|**풀이**|
+|Programmers|Lv.4|59413|[입양 시각 구하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59413)|**풀이**|
 |BOJ|Gold IV|1043|[거짓말](https://www.acmicpc.net/problem/1043)||
 |BOJ|Gold III|1865|[웜홀](https://www.acmicpc.net/problem/1865)||
 |Programmers|Lv.2|250135|[아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135)||
@@ -87,5 +87,9 @@
 |BOJ|Gold V|1759|[암호 만들기](http://acmicpc.net/problem/1759)|
 |BOJ|Silver I|10844|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|
 |BOJ|Gold V|13549|[숨바꼭질 3](https://www.acmicpc.net/problem/13549)|
+|BOJ|Gold IV|1197|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|
+|BOJ|Gold V|9251|[LCS](https://www.acmicpc.net/problem/9251)|
+|BOJ|Gold V|11758|[CCW](https://www.acmicpc.net/problem/11758)|
+|BOJ|Gold III|14890|[경사로](https://www.acmicpc.net/problem/14890)|
 
 ---
