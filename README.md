@@ -10,10 +10,10 @@
 
 |출처|난이도|문제번호|문제명|풀이|
 |:---|:---|:---|:---|:---|
-|BOJ|Gold V|1174|[줄어드는 수](https://www.acmicpc.net/problem/1174)|**풀이**|
-|BOJ|Gold V|1660|[캡틴 이다솜](https://www.acmicpc.net/problem/1660)|**풀이**|
-|BOJ|Gold V|2493|[탑](https://www.acmicpc.net/problem/2493)|**풀이**|
-|Programmers|Lv.4|59413|[입양 시각 구하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59413)|**풀이**|
+|BOJ|Gold IV|1339|[단어 수학](https://www.acmicpc.net/problem/1339)|**풀이**|
+|BOJ|Gold V|14719|[빗물](https://www.acmicpc.net/problem/14719)|**풀이**|
+|BOJ|Gold III|2342|[Dance Dance Revolution](https://www.acmicpc.net/problem/2342)|**풀이**|
+|Programmers|Lv.1|151139|[대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139)|**풀이**|
 |BOJ|Gold IV|1043|[거짓말](https://www.acmicpc.net/problem/1043)||
 |BOJ|Gold III|1865|[웜홀](https://www.acmicpc.net/problem/1865)||
 |Programmers|Lv.2|250135|[아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135)||
@@ -91,5 +91,9 @@
 |BOJ|Gold V|9251|[LCS](https://www.acmicpc.net/problem/9251)|
 |BOJ|Gold V|11758|[CCW](https://www.acmicpc.net/problem/11758)|
 |BOJ|Gold III|14890|[경사로](https://www.acmicpc.net/problem/14890)|
+|BOJ|Gold V|1174|[줄어드는 수](https://www.acmicpc.net/problem/1174)|
+|BOJ|Gold V|1660|[캡틴 이다솜](https://www.acmicpc.net/problem/1660)|
+|BOJ|Gold V|2493|[탑](https://www.acmicpc.net/problem/2493)|
+|Programmers|Lv.4|59413|[입양 시각 구하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59413)|
 
 ---
